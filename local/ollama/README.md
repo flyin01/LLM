@@ -6,3 +6,4 @@ This folder contains models that are downloaded and locally executed using Ollam
 - [x] gpt_oss  
 - [ ] *nemotron* - TBD  
 - [ ] *devstral* -TBD  
+- [ ] *translategemma* - TBD
